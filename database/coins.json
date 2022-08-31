@@ -1,0 +1,24 @@
+{
+    "coins": {
+        "cuivre": {
+            "nom": "Pièce(s) de cuivre",
+            "valeur": "1"
+        },
+        "argent": {
+            "nom": "Pièce(s) d'argent",
+            "valeur": "10"
+        },
+        "electrum": {
+            "nom": "Pièce(s) d'éléctrum",
+            "valeur": "50"
+        },
+        "or": {
+            "nom": "Pièce(s) d'or",
+            "valeur": "100"
+        },
+        "platine": {
+            "nom": "Pièce(s) de platine",
+            "valeur": "1000"
+        }
+    }
+}
